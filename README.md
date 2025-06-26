@@ -38,3 +38,4 @@ npm run with
 **Links Úteis:**
 - [Implementação sem Strategy](./src/withoutStrategy/)
 - [Implementação com Strategy](./src/withStrategy/)
+- [Video Explicativo](https://drive.google.com/file/d/1CzvLJluOA8IS1fUqbcc4pHcIEBLGLzSN/view?usp=drive_link)
