@@ -1,0 +1,17 @@
+{
+  "name": "engsof2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "without": "ts-node src/withoutStrategy/gps.ts",
+    "with": "ts-node src/withStrategy/gps.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
